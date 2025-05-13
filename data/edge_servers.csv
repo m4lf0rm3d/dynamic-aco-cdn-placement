@@ -1,0 +1,31 @@
+CDN_ID,City,lat,long,CPU_Health,Threshold,Status
+cdn_1,New York,40.7128,-74.006,39.08,90,Running
+cdn_2,Los Angeles,34.0522,-118.2437,45.29,90,Running
+cdn_3,Chicago,41.8781,-87.6298,38.3,90,Running
+cdn_4,London,51.5074,-0.1278,40.53,90,Running
+cdn_5,Frankfurt,50.1109,8.6821,48.71,90,Running
+cdn_6,Amsterdam,52.3676,4.9041,40.48,90,Running
+cdn_7,Paris,48.8566,2.3522,40.86,90,Running
+cdn_8,Tokyo,35.6895,139.6917,31.93,90,Running
+cdn_9,Singapore,1.3521,103.8198,47.2,90,Running
+cdn_10,Sydney,-33.8688,151.2093,31.53,90,Running
+cdn_11,Toronto,43.65107,-79.347015,38.4,90,Running
+cdn_12,São Paulo,-23.5505,-46.6333,47.49,90,Running
+cdn_13,Johannesburg,-26.2041,28.0473,46.46,90,Running
+cdn_14,Mumbai,19.076,72.8777,47.43,90,Running
+cdn_15,Seoul,37.5665,126.978,45.76,90,Running
+cdn_16,Hong Kong,22.3193,114.1694,39.04,90,Running
+cdn_17,Dubai,25.2048,55.2708,40.32,90,Running
+cdn_18,Istanbul,41.0082,28.9784,43.87,90,Running
+cdn_19,Mexico City,19.4326,-99.1332,36.2,90,Running
+cdn_20,Madrid,40.4168,-3.7038,48.56,90,Running
+cdn_21,Warsaw,52.2297,21.0122,34.65,90,Running
+cdn_22,Vienna,48.2082,16.3738,43.46,90,Running
+cdn_23,Brussels,50.8503,4.3517,48.72,90,Running
+cdn_24,Copenhagen,55.6761,12.5683,36.08,90,Running
+cdn_25,Oslo,59.9139,10.7522,39.0,90,Running
+cdn_26,Helsinki,60.1695,24.9354,36.12,90,Running
+cdn_27,Stockholm,59.3293,18.0686,31.03,90,Running
+cdn_28,Lisbon,38.7169,-9.1399,37.2,90,Running
+cdn_29,Athens,37.9838,23.7275,35.46,90,Running
+cdn_30,Bangkok,13.7563,100.5018,47.92,90,Running

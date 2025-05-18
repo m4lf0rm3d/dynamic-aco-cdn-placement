@@ -46,10 +46,10 @@ def total_fitness(assignment, cities, servers, alpha=1.0, beta=1.0, gamma=1.0):
         projected_cpu = server['CPU_Health'] + (server_loads[server_idx] / server['Capacity']) * 100
 
         # Penalize overloads beyond threshold (e.g. using a power penalty)
-        cpu_penalty = max(0, projected_cpu - server['Threshold']) ** 4
+        cpu_penalty = max(0, projected_cpu - server['Threshold'])
 
         if distance != 0:
-            total_cost += alpha * (1/distance) + beta * (cpu_penalty)
+            total_cost += (alpha * distance) + (beta * (cpu_penalty))
 
     # 2. Utilization penalty (load imbalance among running servers)
     if running_servers:
@@ -60,6 +60,6 @@ def total_fitness(assignment, cities, servers, alpha=1.0, beta=1.0, gamma=1.0):
         total_cost += gamma * imbalance
 
     # 3. Activation cost (number of active servers)
-    total_cost += 0.5 * len(running_servers)
+    total_cost += 0.01 * len(running_servers)
 
     return total_cost

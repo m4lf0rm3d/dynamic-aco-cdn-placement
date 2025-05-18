@@ -1,66 +1,66 @@
 City,Country,lat,long,UsagePerHour
-Tokyo,Japan,35.6895,139.6917,7413
-Delhi,India,28.7041,77.1025,1874
-Shanghai,China,31.2304,121.4737,1811
-São Paulo,Brazil,-23.5505,-46.6333,2762
-Cairo,Egypt,30.0444,31.2357,1540
-Dhaka,Bangladesh,23.8103,90.4125,4204
-Moscow,Russia,55.7558,37.6173,2727
-Mexico City,Mexico,19.4326,-99.1332,3877
-Istanbul,Turkey,41.0082,28.9784,7652
-Kinshasa,DR Congo,-4.4419,15.2663,4040
-Lagos,Nigeria,6.5244,3.3792,4607
-London,United Kingdom,51.5074,-0.1278,1409
-Bangkok,Thailand,13.7563,100.5018,1767
-Buenos Aires,Argentina,-34.6037,-58.3816,1162
-Tehran,Iran,35.6892,51.389,3712
-Paris,France,48.8566,2.3522,540
-Bogotá,Colombia,4.711,-74.0721,4594
-Lima,Peru,-12.0464,-77.0428,2274
-Jakarta,Indonesia,-6.2088,106.8456,4604
-Karachi,Pakistan,24.8607,67.0011,5505
-Nairobi,Kenya,-1.2921,36.8219,6054
-New York City,United States,40.7128,-74.006,6912
-Hanoi,Vietnam,21.0285,105.8544,4097
-Berlin,Germany,52.52,13.405,1873
-Madrid,Spain,40.4168,-3.7038,7350
-Kuala Lumpur,Malaysia,3.139,101.6869,4982
-Santiago,Chile,-33.4489,-70.6693,2062
-Addis Ababa,Ethiopia,9.03,38.74,588
-Baghdad,Iraq,33.3128,44.3615,7010
-Toronto,Canada,43.651,-79.347,1348
-Sydney,Australia,-33.8688,151.2093,2634
-Rome,Italy,41.9028,12.4964,3034
-Seoul,South Korea,37.5665,126.978,3303
-Manila,Philippines,14.5995,120.9842,108
-Havana,Cuba,23.1136,-82.3666,1574
-Riyadh,Saudi Arabia,24.7136,46.6753,5450
-Cape Town,South Africa,-33.9249,18.4241,787
-Warsaw,Poland,52.2297,21.0122,3715
-Vienna,Austria,48.2082,16.3738,1683
-Kabul,Afghanistan,34.5553,69.2075,7507
-Kathmandu,Nepal,27.7172,85.324,1042
-Doha,Qatar,25.276987,51.520008,2054
-Singapore,Singapore,1.3521,103.8198,923
-Athens,Greece,37.9838,23.7275,1289
-Oslo,Norway,59.9139,10.7522,7264
-Stockholm,Sweden,59.3293,18.0686,6458
-Helsinki,Finland,60.1695,24.9354,7184
-Copenhagen,Denmark,55.6761,12.5683,5693
-Reykjavik,Iceland,64.1355,-21.8954,5943
-Brussels,Belgium,50.8503,4.3517,5451
-Amsterdam,Netherlands,52.3676,4.9041,2634
-Lisbon,Portugal,38.7169,-9.1399,4556
-Prague,Czech Republic,50.0755,14.4378,2443
-Budapest,Hungary,47.4979,19.0402,7282
-Zurich,Switzerland,47.3769,8.5417,4809
-Bratislava,Slovakia,48.1482,17.1067,1448
-Ljubljana,Slovenia,46.0569,14.5051,4833
-Sarajevo,Bosnia and Herzegovina,43.8486,18.3564,4466
-Sofia,Bulgaria,42.6977,23.3219,2999
-Tbilisi,Georgia,41.7151,44.8271,6951
-Yerevan,Armenia,40.1792,44.4991,4806
-Chisinau,Moldova,47.0105,28.8638,5039
-Tallinn,Estonia,59.4372,24.7536,6912
-Vilnius,Lithuania,54.6872,25.2797,648
-Riga,Latvia,56.9496,24.1052,7803
+Tokyo,Japan,35.6895,139.6917,3023
+Delhi,India,28.7041,77.1025,7257
+Shanghai,China,31.2304,121.4737,2612
+São Paulo,Brazil,-23.5505,-46.6333,6942
+Cairo,Egypt,30.0444,31.2357,1447
+Dhaka,Bangladesh,23.8103,90.4125,793
+Moscow,Russia,55.7558,37.6173,5331
+Mexico City,Mexico,19.4326,-99.1332,332
+Istanbul,Turkey,41.0082,28.9784,1317
+Kinshasa,DR Congo,-4.4419,15.2663,1150
+Lagos,Nigeria,6.5244,3.3792,6429
+London,United Kingdom,51.5074,-0.1278,1793
+Bangkok,Thailand,13.7563,100.5018,5473
+Buenos Aires,Argentina,-34.6037,-58.3816,3149
+Tehran,Iran,35.6892,51.389,7309
+Paris,France,48.8566,2.3522,2163
+Bogotá,Colombia,4.711,-74.0721,2551
+Lima,Peru,-12.0464,-77.0428,2222
+Jakarta,Indonesia,-6.2088,106.8456,4143
+Karachi,Pakistan,24.8607,67.0011,1277
+Nairobi,Kenya,-1.2921,36.8219,2870
+New York City,United States,40.7128,-74.006,3010
+Hanoi,Vietnam,21.0285,105.8544,3101
+Berlin,Germany,52.52,13.405,2439
+Madrid,Spain,40.4168,-3.7038,4164
+Kuala Lumpur,Malaysia,3.139,101.6869,3856
+Santiago,Chile,-33.4489,-70.6693,7424
+Addis Ababa,Ethiopia,9.03,38.74,6171
+Baghdad,Iraq,33.3128,44.3615,5393
+Toronto,Canada,43.651,-79.347,497
+Sydney,Australia,-33.8688,151.2093,6514
+Rome,Italy,41.9028,12.4964,6795
+Seoul,South Korea,37.5665,126.978,4082
+Manila,Philippines,14.5995,120.9842,3930
+Havana,Cuba,23.1136,-82.3666,2392
+Riyadh,Saudi Arabia,24.7136,46.6753,5081
+Cape Town,South Africa,-33.9249,18.4241,4798
+Warsaw,Poland,52.2297,21.0122,7119
+Vienna,Austria,48.2082,16.3738,3782
+Kabul,Afghanistan,34.5553,69.2075,424
+Kathmandu,Nepal,27.7172,85.324,2299
+Doha,Qatar,25.276987,51.520008,1943
+Singapore,Singapore,1.3521,103.8198,7785
+Athens,Greece,37.9838,23.7275,5622
+Oslo,Norway,59.9139,10.7522,7003
+Stockholm,Sweden,59.3293,18.0686,5761
+Helsinki,Finland,60.1695,24.9354,4677
+Copenhagen,Denmark,55.6761,12.5683,1026
+Reykjavik,Iceland,64.1355,-21.8954,7984
+Brussels,Belgium,50.8503,4.3517,5086
+Amsterdam,Netherlands,52.3676,4.9041,4216
+Lisbon,Portugal,38.7169,-9.1399,6970
+Prague,Czech Republic,50.0755,14.4378,2556
+Budapest,Hungary,47.4979,19.0402,4439
+Zurich,Switzerland,47.3769,8.5417,163
+Bratislava,Slovakia,48.1482,17.1067,2205
+Ljubljana,Slovenia,46.0569,14.5051,5766
+Sarajevo,Bosnia and Herzegovina,43.8486,18.3564,7466
+Sofia,Bulgaria,42.6977,23.3219,6479
+Tbilisi,Georgia,41.7151,44.8271,5002
+Yerevan,Armenia,40.1792,44.4991,6498
+Chisinau,Moldova,47.0105,28.8638,3498
+Tallinn,Estonia,59.4372,24.7536,3783
+Vilnius,Lithuania,54.6872,25.2797,7124
+Riga,Latvia,56.9496,24.1052,2779
